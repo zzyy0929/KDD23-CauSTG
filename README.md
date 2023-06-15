@@ -8,4 +8,5 @@
 sh train_env.sh
 ```
 
+Please unzip the file data.zip and __pycache__.zip.
 
