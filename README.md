@@ -7,6 +7,6 @@
 ```
 sh train_env.sh
 ```
-
+The implementation of "Maintaining the Status Qua: Capturing Invariant Relations for OOD Spatiotemporal Learning" accepted by SIGKDD conference 2023. This case is implemented on Metr-LA. 
 Please unzip the file data.zip and __pycache__.zip.
 
